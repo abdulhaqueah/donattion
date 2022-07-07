@@ -1,0 +1,253 @@
+body {
+    margin: 0px;
+}
+
+
+.header-section {
+    background-image: url('images/donation9.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+    margin: 0% auto;
+    background-color: black;
+}
+
+.header-content {
+    padding: 6% 23%;
+    text-align: center;
+    color: #fff6f8;
+    margin: 0px;
+    font-size: 20px;
+
+}
+
+.header-content h1 {
+    font-size: 50px;
+    color: #fff6f8;
+}
+
+.butoons {
+    background: #FF5959;
+    padding: 13px 20px;
+    border-radius: 6px;
+    border: none;
+}
+
+.div-text {
+    text-align: center;
+    color: #624A43;
+    font-size: 28px;
+}
+
+.div-text p {
+    padding: 0px 24%;
+    font-size: 18px;
+}
+
+.div-text h1 {
+    margin: 45px 0px 3px 1px;
+}
+
+.donte-money {
+    margin: 0% 19%;
+    display: flex;
+}
+
+.one-taka {
+    width: 18%;
+    height: 80px;
+    float: left;
+    text-align: center;
+
+}
+
+.two-taka {
+    width: 18%;
+    height: 80px;
+    border: 1px solid red;
+    float: left;
+    text-align: center;
+    color: #FF5959;
+    background-color: #FFEEEE;
+    border-radius: 10px;
+}
+
+.two-taka h1 {
+    padding: 2px;
+}
+
+.three-taka {
+    width: 18%;
+    height: 80px;
+    float: left;
+    text-align: center;
+}
+
+.four-taka {
+    width: 18%;
+    height: 80px;
+    float: left;
+    text-align: center;
+}
+
+.five-taka {
+    width: 18%;
+    height: 80px;
+    float: right;
+    text-align: center;
+}
+
+.Div-content {
+    margin: 45px;
+}
+
+.cntent-last-section {
+    text-align: center;
+    margin-top: 20px;
+    display: block;
+    width: 80%;
+}
+
+.cntent-last-section p {
+    color: #B6B6B6;
+    margin-bottom: 0px;
+    margin-left: 24%;
+}
+
+.cntent-last-section hr {
+    margin: 0% 8% 0% 33%;
+}
+
+.donet-content {
+    text-align: center;
+}
+
+.donet-content p {
+    text-align: center;
+    padding: 0% 20%;
+}
+
+/* .donte-plan-food{
+    margin-left: 10%;
+} */
+.donte-plan-one {
+    width: 28%;
+    float: left;
+
+}
+
+.donte-plan-two {
+    width: 30%;
+    float: left;
+
+}
+
+.dontent-last-donet {
+    width: 32%;
+    height: 250PX;
+    float: left;
+    background-color: red;
+}
+
+.donte-plan-one-LAST img {
+    width: 20%;
+
+}
+
+.donte-plan-one img {
+    width: 20%;
+}
+
+
+.donte-plan-one {
+    background-color: #EDF5F6;
+    height: 250PX;
+    margin: 18px;
+}
+
+.donte-plan-two {
+    background-color: #FFEEEE;
+    height: 250PX;
+    margin: 18px;
+}
+
+.donte-plan-food {
+    margin: 0% 10%;
+}
+
+.donte-plan-one-LAST{
+    margin-left: 9px;
+    WIDTH: 31%;
+    FLOAT: RIGHT;
+    height: 250PX;
+    margin: 18px;
+    background-color: #FFF4D8;
+
+}
+
+.donte-plan-two img{
+    width: 20%;
+    float: left;
+}
+.update-content-class {
+    text-align: center;
+    width: 100%;
+}
+
+.update-content-class p {
+    padding: 0% 29%;
+}
+
+.mail-box {
+    background-color: #FFF4D8;
+    width: 501px;
+    height: 120px;
+    margin: 2% 0% 0% 30%;
+    display: block;
+}
+
+.mail-input {
+    margin-left: 98PX;
+    padding-top: 42PX;
+    width: 30%;
+}
+
+.content-mail {
+    padding: 0% 35% 10% 9%;
+    width: 40%;
+}
+
+.content-mail button {
+    float: right;
+    margin-top: 5px;
+    ;
+}
+
+.fotter-sections {
+    height: 152px;
+    width: 100%;
+    background-color: black;
+    margin-top: 50px;
+}
+
+.middle-images {
+    margin-top: 100px;
+    height: 350px;
+    margin-bottom: 300px;
+    display: block;
+}
+
+.middle-images img {
+    float: left;
+}
+
+.content-image-sections {
+    width: 50%;
+    float: left;
+    margin-top: 80px;
+    margin-left: 19px;
+
+}
+
+.content-image-sections
